@@ -2,6 +2,7 @@
 
 This project presents an AI-powered system for **automated skin cancer detection** using a **hybrid deep learning model** that combines **ResNet50** and **EfficientNetB0** architectures. The model is trained and evaluated on the **HAM10000** dataset to classify common types of skin lesions.
 The system is trained on the HAM10000 dataset and is capable of identifying 3 types of skin lesions: 
+
 AKIEC (Actinic Keratoses)  
 BCC (Basal Cell Carcinoma)  
 NV (Melanocytic Nevi) 
